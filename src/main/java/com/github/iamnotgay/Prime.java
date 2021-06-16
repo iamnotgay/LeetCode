@@ -7,6 +7,7 @@ package com.github.iamnotgay;
  *  素数个数统计
  *  des: 统计n以内的素数个数
  *  素数： 只能被1和自身整除的自然数，0，1除外
+ *
  *  考点： 埃筛法
  */
 public class Prime {
