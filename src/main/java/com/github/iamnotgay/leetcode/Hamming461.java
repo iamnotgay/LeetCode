@@ -1,4 +1,4 @@
-package com.github.iamnotgay;
+package com.github.iamnotgay.leetcode;
 
 /**
  * @author: sanmao @Date: 2021-05-27 14:07 @Version: 1.0

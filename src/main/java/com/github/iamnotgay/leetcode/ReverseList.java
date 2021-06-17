@@ -1,4 +1,4 @@
-package com.github.iamnotgay;
+package com.github.iamnotgay.leetcode;
 
 /**
  * @author: sanmao 链表反转
